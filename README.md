@@ -5,7 +5,7 @@ RATHNAYAKA RMAK
 - 👀 I’m interested in CODING 
 - 🌱 I’m currently looking for a Jop as a FULLSTACK Developer 
 
-<img src="https://avatars.githubusercontent.com/u/115190547?s=96&v=4" alt="banner that says Ahmed Hany - Frontend Developer specialize in React framework & currently studing MERN stack technology">
+<img src="https://github.com/akr1139/ABOUT-ME/blob/main/profile%20Ajith.jpg" alt="banner that says Ajith Rathnayaka - Frontend Developer specialize in React framework & currently studing MERN stack technology">
 
 I'm a software engineer who loves creating technology that helps people and strengthens communities. I enjoy using ReactJS, Redux, and RESTful APIs to build new things.
 
